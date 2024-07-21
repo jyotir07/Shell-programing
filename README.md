@@ -13,4 +13,4 @@ PS. I am using WSL for running shell scripts, and I am not sure how to use the r
 - Also how to make our own variable and then make it useable by the children
 - "Export" comand makes the variable useable by the children (other files)
 Note: To further use the export variable even after reopening the linux or wsl, we need to edit the ".bashrc" file. (Which I did) 
-- Furthermor, I learnt about arethematic expressions using shell programing and then made a simple program that calculates when you will get rich.
+- Furthermore, I learnt about arethematic expressions using shell programing and then made a simple program that calculates when you will get rich.
