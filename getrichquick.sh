@@ -8,6 +8,31 @@ read age
 
 echo "Hello, $name, you are $age years old!"
 
+sleep 2
 
-echo "$SHELL, $HOSTNAME, $PWD"
-echo "$twitter is great, $okay"
+echo "Calculating"
+sleep 0.1
+echo ".........."
+sleep 0.1
+echo "*........."
+sleep 0.1
+echo "**........"
+sleep 0.1
+echo "***......."
+sleep 0.1
+echo "****......"
+sleep 0.1
+echo "*****....."
+sleep 0.1
+echo "******...."
+sleep 0.1
+echo "*******..."
+sleep 0.1
+echo "********.."
+sleep 0.1
+echo "*********."
+sleep 0.5
+echo "**********"
+sleep 0.1
+getrich=$(( ($RANDOM % 15) + $age))
+echo "You will get rich at $getrich"
