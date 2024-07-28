@@ -14,5 +14,24 @@ read tarnished
 if [[ $beast == $tarnished ]]; then echo "Beast VANQUISHED! Congrats fellow tarnished"
 else
 	echo "You died"
+         exit 1
 fi
 
+sleep 2
+
+echo "BOSS BATTLE! Get Ready!"
+sleep 0.2
+echo "It's Margit!"
+sleep 1
+
+echo "The boss have arrived. Quick! Choose a number between 0-9."
+
+read tarnished
+
+beast=$(( $RANDOM % 10 ))
+
+if [[ $beast == $tarnished ]]; then
+        echo "Beast VANQUISHED! Congrats nigga"
+else
+        echo "You died"
+fi
