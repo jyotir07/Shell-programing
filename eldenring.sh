@@ -31,7 +31,7 @@ read tarnished
 beast=$(( $RANDOM % 10 ))
 
 if [[ $beast == $tarnished ]]; then
-        echo "Beast VANQUISHED! Congrats nigga"
+        echo "Beast VANQUISHED! Congrats, you win!"
 else
         echo "You died"
 fi
