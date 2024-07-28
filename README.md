@@ -19,5 +19,5 @@ Note: To further use the export variable even after reopening the linux or wsl, 
 - Learnt how to use if statements, and made a little game using them
 - Also how to use comments in bash script
 - In the game first beast is easier with a 50-50 chance that you might win
-- In the boss battle, there is a very less chance that you win
+- In the boss battle, I added Margit and there is a very less chance that you win
 - It is a pretty easy script and uses if statements
