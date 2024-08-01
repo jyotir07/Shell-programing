@@ -21,3 +21,9 @@ Note: To further use the export variable even after reopening the linux or wsl, 
 - In the game first beast is easier with a 50-50 chance that you might win
 - In the boss battle, I added Margit and there is a very less chance that you win
 - It is a pretty easy script and uses if statements
+
+### Day-4 
+- Updated eldeneing.sh with more if statements
+- Also added a "cheat code" to beat the boss
+- And used cases to let the user choose their class in the game
+- The game contains three classes
